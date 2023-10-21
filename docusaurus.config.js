@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Benjamins',
+  tagline: 'Big Data Big Money',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,8 +66,8 @@ const config = {
       navbar: {
         title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Benjamins Logo',
+          src: 'img/benjamins_logo.svg',
         },
         items: [
           {
