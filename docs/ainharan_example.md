@@ -11,6 +11,4 @@ fun main() {
     println("This is a test")
 }
 
-# example commit
-
 ```
