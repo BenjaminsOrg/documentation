@@ -11,8 +11,9 @@ fun main() {
     println("This is a test")
 }
 
-#this is a comment
-#Test 21/02/2024 first feature
-#The first one was actually a fix instead of a feature, now test feature
+#Following a test, the results were weird.
+#first can be a feature
+#Lets testing fix
+#feature again (this should make it different?)
 
 ```
