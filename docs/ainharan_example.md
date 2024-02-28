@@ -10,6 +10,17 @@ This is a test
 fun main() {
     println("This is a test")
 }
-#perf BREAKINf CHANGE test 28/02/2024 / 7:10
+
+#This is a test that contains a number of majors, bugs and minors. 
+#BREAKING CHANGE: for major
+#perf/fix: for bugs
+#feat: for minor
+#These comments will be remain
+
+#Comments for change numbered
+#1 BREAKING CHANGE TEST 1
+#2 This is a fix change 
+#3 This a minor change, aka feat. 0.1.0 updat
+#4 This is the last in the change that factors in the end. This should result in 3.0.0. The above commits will be pulled and merged following this.
 
 ```
