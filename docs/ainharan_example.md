@@ -10,6 +10,6 @@ This is a test
 fun main() {
     println("This is a test")
 }
-#perf test 28/02/2024 / 6:56
+#BREAKING CHANGE test 28/02/2024 / 6:56
 
 ```
