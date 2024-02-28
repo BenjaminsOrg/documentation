@@ -10,7 +10,6 @@ This is a test
 fun main() {
     println("This is a test")
 }
-
-#test chore 
+#CHore test 28/02/2024 / 6:46 
 
 ```
