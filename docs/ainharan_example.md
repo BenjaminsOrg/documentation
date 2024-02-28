@@ -22,5 +22,5 @@ fun main() {
 #2 This is a fix change 
 #3 This a minor change, aka feat. 0.1.0 updat
 #4 This is the last in the change that factors in the end. This should result in 3.0.0. The above commits will be pulled and merged following this.
-
+#Something went wrong, test major?
 ```
