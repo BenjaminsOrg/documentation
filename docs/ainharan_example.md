@@ -22,5 +22,6 @@ fun main() {
 #Test for breaking change above successfuly went from 3.1.0 to 4.0.0
 #Test for BREAKING, FEAT, BREAKING.
 #Breaking test 1
-#Apply feat.
+#Apply feat
+#Final test Breaking. Expected result to go to 5.0.0
 ```
