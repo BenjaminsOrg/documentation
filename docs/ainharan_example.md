@@ -18,10 +18,7 @@ fun main() {
 #These comments will be remain
 
 #29/02/2024 test with Ainharan and James. 
-#1 BREAKING CHANGE TEST
-#Test for breaking change above successfuly went from 3.1.0 to 4.0.0
-#Test for BREAKING, FEAT, BREAKING.
-#Breaking test 1
-#Apply feat
-#Final test Breaking. Expected result to go to 5.0.0
+#Same test as before but using "BREAKING" instead of "BREAKING CHANGE"
+#add my feat
+$the last "breaking" 4.0.0 -> 5
 ```
