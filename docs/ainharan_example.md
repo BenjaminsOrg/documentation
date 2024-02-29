@@ -17,14 +17,6 @@ fun main() {
 #feat: for minor
 #These comments will be remain
 
-#Comments for change numbered
-#1 BREAKING CHANGE TEST 1
-#2 This is a fix change 
-#3 This a minor change, aka feat. 0.1.0 updat
-#4 This is the last in the change that factors in the end. This should result in 3.0.0. The above commits will be pulled and merged following this.
-#Something went wrong, test major?
-#ANOTHER ATTEMP
-#major
-#feat
-#major
+#29/02/2024 test with Ainharan and James. 
+#1 BREAKING CHANGE TEST
 ```
