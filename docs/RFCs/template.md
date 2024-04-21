@@ -12,9 +12,14 @@
 
 **Trello issues:** (link to trello card)
 
+**Status: IN REVIEW**
+
 ## Summary
 
 One paragraph explanation of the feature.
+
+## Status
+
 
 ## Motivation
 

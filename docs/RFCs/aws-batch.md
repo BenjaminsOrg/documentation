@@ -12,6 +12,8 @@
 
 **Trello issues:** https://trello.com/c/9mTYhRbg
 
+**Status: ACCEPTED**
+
 ## Summary
 
 AWS batch for scraping job post data from other job board websites.
@@ -68,4 +70,5 @@ Limited control. I believe that simplifying the workload is more important.
 
 ## Unresolved questions
 
-What parts of the design are still to be done?
+N/A
+
